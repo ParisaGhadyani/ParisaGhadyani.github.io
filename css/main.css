@@ -331,7 +331,7 @@ border-color: #4A89CC !important;
 
 @media all and (max-width:991px) {
     .footer-img {
-        width: 25%;
+        width: 50%;
     }
 
     .footer-container {
